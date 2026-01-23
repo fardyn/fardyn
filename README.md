@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fardin Alizadeh</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 💬 Ask me about **Python, Go, React.**
+- 💬 Ask me about **Python, React, Next.js, Go, Rust.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
