@@ -28,7 +28,7 @@ Rust**
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg"
+      src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg"
       alt="FastAPI"
       width="40"
       height="40"
@@ -60,7 +60,7 @@ Rust**
   </a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+      src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nextjs-light.svg"
       alt="nextjs"
       width="40"
       height="40"
