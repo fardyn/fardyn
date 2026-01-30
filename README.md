@@ -36,7 +36,7 @@ Rust**
   </a>
    <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
     <img
-      src="https://rust-lang.org/logos/rust-logo-128x128-blk.png"
+      src="https://rust-lang.org/logos/rust-logo-256x256.png"
       alt="rust"
       width="40"
       height="40"
