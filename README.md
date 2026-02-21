@@ -25,6 +25,14 @@
       height="40"
     />
   </a>
+   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://static.djangoproject.com/img/logos/django-logo-negative.svg"
+      alt="Django"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg"
@@ -56,15 +64,6 @@
       width="40"
       height="40"
     />
-  </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nextjs-light.svg"
-      alt="nextjs"
-      width="40"
-      height="40"
-    />
-  </a>
 
    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
